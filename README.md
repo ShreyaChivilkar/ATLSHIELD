@@ -34,9 +34,12 @@ All predictions are backed by trained **Random Forest models** using real Atlant
    tail -f atlShield.log
 
 
-### Tableau: Visualizations
-1. All the developed dashboards are published on Tableau Public: https://public.tableau.com/app/profile/shreya.chivilkar/viz/CrimeAnalysisAtlantaDashboard/Dashboard1?publish=yes
-The workbook can be download for checking out the design implementations
+### 📊 Tableau Visualizations
+
+All dashboards developed as part of this project are published on [Tableau Public](https://public.tableau.com/app/profile/shreya.chivilkar/viz/CrimeAnalysisAtlantaDashboard/Dashboard1?publish=yes).
+
+You can also download the workbook from the same link to explore the design, layout, and implementation details.
+
 
 --- 
 ## 📁 Project Structure
